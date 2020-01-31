@@ -1,2 +1,2 @@
 # workspace
-added github bot
+added github bot for notifications
